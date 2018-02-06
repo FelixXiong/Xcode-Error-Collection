@@ -1,3 +1,4 @@
-# My Awesome Book
+# Xcode报错问题
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是我总结的Xcode报错问题以及解决方法。
+
