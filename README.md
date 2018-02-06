@@ -12,5 +12,5 @@
 
 错误代码：关于Xcode报错时出现的错误代码以及解决方式。
 
-如果喜欢，欢迎Star与订阅（Discribe）。
+如果喜欢，欢迎Star与订阅（subscribe）。
 
