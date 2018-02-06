@@ -2,7 +2,7 @@
 
 ## terminating with uncaught exception of type NSException
 
-### 模拟器出现白屏
+### 1.模拟器出现白屏
 
 检查是否有黄色的叹号的Outlets，进行删除。
 
@@ -14,7 +14,7 @@
 >
 > What happens in instances like this is you probably named an action, then renamed it. You need to delete the old name and if that was the only issue will start right up in sim!
 
-### 点按某个控件出现崩溃（crash）
+### 2.点按某个控件出现崩溃（crash）
 
 
 
