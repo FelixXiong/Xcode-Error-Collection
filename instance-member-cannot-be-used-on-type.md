@@ -10,7 +10,11 @@ Stackoverflow
 
 [https://stackoverflow.com/questions/32693150/whats-wrong-here-instance-member-cannot-be-used-on-type](https://stackoverflow.com/questions/32693150/whats-wrong-here-instance-member-cannot-be-used-on-type)
 
-问题遇到的解决方式：
+## 可能报错的情况
+
+**漏行**
+
+报错位置：最下方三行cell显示文字处
 
 ```swift
 override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
@@ -21,7 +25,7 @@ override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexP
 
         cell.Title.text = ExampleList.TitleLabel
         cell.Description.text = ExampleList.DesLabel
-        cell.Notes.text = ExampleList.NotesLabel·
+        cell.Notes.text = ExampleList.NotesLabel
 ```
 
 
