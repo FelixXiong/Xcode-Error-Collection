@@ -1,6 +1,6 @@
-# Swift Compliter
+# Swift编译器
 
-以下是关于Xcode报错时出现的Swift Compliter以及解决方式。
+以下是关于Xcode报错时出现的Swift编译器错误以及解决方式。
 
 格式：
 

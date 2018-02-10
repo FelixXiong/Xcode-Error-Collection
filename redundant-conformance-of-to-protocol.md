@@ -6,18 +6,18 @@ Stackoverflow
 
 ## 可能报错的情况
 
-**各种ViewController不对**
+**1.各种ViewController不正确**
 
 报错位置：\#import下方class 类名处
 
 ```swift
-class WillLearnListTableViewController: UITableViewController,UITableViewDataSource,UITableViewDelegate{
+class ListTableViewController: UITableViewController,UITableViewDataSource,UITableViewDelegate{
 ```
 
-应为ViewController（以下简称VC），实际则输入为TableViewViewController，VC文件开头class处修改对则正常。
+解决方法：应为ViewController（以下简称VC），实际则输入为TableViewViewController，VC文件开头class处修改对则正常。
 
 ```swift
-class WillLearnListViewController: UIViewController,UITableViewDataSource,UITableViewDelegate{
+class ListViewController: UIViewController,UITableViewDataSource,UITableViewDelegate{
 ```
 
 
