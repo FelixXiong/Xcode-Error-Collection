@@ -18,11 +18,9 @@ Stackoverflow
 
 ## 2.点按某个控件出现崩溃（crash）
 
-### unrecognized selector sent to instance 0x7f96c9f0a060'
+### 2.1unrecognized selector sent to instance '
 
 Cnblogs
 
 [http://www.cnblogs.com/liuguanlei/p/4482327.html](http://www.cnblogs.com/liuguanlei/p/4482327.html)
-
-
 
