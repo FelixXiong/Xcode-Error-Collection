@@ -1,44 +1,28 @@
 # Terminating app due to uncaught exception ''
 
-# reason: '-\[项目名称.项目（自定义）类名:\]: unrecognized selector sent to instance ：
+# reason: '-\[项目名称.项目（自定义）类名:\]:
 
 报错位置：控制台
 
 ## 1.‘NSInvalidArgumentException'
 
-## 2.'NSUnknownKeyException'
-
-### 2.1.this class is not key value coding-compliant for the key'
+### 1.2:unrecognized selector sent to instance ：
 
 **出现此问题的情况说明：**
 
-**1:模拟器出现白屏**
+1:未设置代理
 
-**2:运行之后点击控件数次发生崩溃**
+2.点按某个控件出现崩溃（crash）
 
-解决步骤：
+**解决步骤：**
 
-1:检查是否有黄色的叹号的Outlets，进行删除。
+1:设置代理（Delegate）
 
-2:去除更改过控件值之后的IBOutlet或者IBAction
+2.定位断点进行查看
 
-Stackoverflow
+**参考链接：**
 
-[libc++abi.dylib: terminating with uncaught exception of type NSException \(lldb\)](https://stackoverflow.com/questions/26442414/libcabi-dylib-terminating-with-uncaught-exception-of-type-nsexception-lldb)
-
-> CMYR - "his could also happen if you've wired up a button to an IBAction that doesn't exist anymore \(or has been renamed\)"
->
-> If you're running into this problem make sure that you go to Main.storyboard, RIGHT click on the yellow box icon \(view controller\) at the top of the phone outline and DELETE the outlet\(s\) with yellow flags.
->
-> What happens in instances like this is you probably named an action, then renamed it. You need to delete the old name and if that was the only issue will start right up in sim!
-
-### 2.2.
-
-**情况说明：点按某个控件出现崩溃（crash）**
-
-解决步骤：定位断点进行查看
-
-参考链接：
+2:
 
 cnblogs
 
@@ -49,6 +33,34 @@ cnblogs
 > 在编辑框的Symbol中填写`-[NSObject(NSObject)doesNotRecognizeSelector:]`此方法签名，对于边看本博文边试验的同学来说，在复制方法签名后想粘贴的时候，发现Xcode中的编辑框不见了，此时右击刚才添加的那个断点，选择Edit Breakpoint即可。
 >
 > 运行代码，断点就会停留在导致崩溃的地方。
+
+## 2.'NSUnknownKeyException'
+
+### 2.1.this class is not key value coding-compliant for the key'
+
+**出现此问题的情况说明：**
+
+1:模拟器出现白屏
+
+2:运行之后点击控件数次发生崩溃
+
+**解决步骤：**
+
+1:检查是否有黄色的叹号的Outlets，进行删除。
+
+2:去除更改过控件值之后的IBOutlet或者IBAction
+
+**参考链接：**
+
+Stackoverflow
+
+[libc++abi.dylib: terminating with uncaught exception of type NSException \(lldb\)](https://stackoverflow.com/questions/26442414/libcabi-dylib-terminating-with-uncaught-exception-of-type-nsexception-lldb)
+
+> CMYR - "his could also happen if you've wired up a button to an IBAction that doesn't exist anymore \(or has been renamed\)"
+>
+> If you're running into this problem make sure that you go to Main.storyboard, RIGHT click on the yellow box icon \(view controller\) at the top of the phone outline and DELETE the outlet\(s\) with yellow flags.
+>
+> What happens in instances like this is you probably named an action, then renamed it. You need to delete the old name and if that was the only issue will start right up in sim!
 
 ## \*.可能报错的情况
 

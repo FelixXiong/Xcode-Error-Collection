@@ -10,6 +10,8 @@
 
 # 错误代码（Heading1）
 
+**参考链接（Paragraph-bold）**
+
 平台（Paragraph）
 
 [参考链接（Paragraph-Insert Link）](https://www.gitbook.com/book/felixxiong/learn-swift-study-note/edit#)
@@ -18,13 +20,13 @@
 
 ## 可能报错的情况（Heading2）
 
-**序号.报错情况**（Paragraph-bold）
+**序号.出现此问题的情况说明（Paragraph-bold）**
 
-报错位置（Paragraph）
+**报错位置（Paragraph-bold）**
 
-解决方法（Paragraph）
+**解决方法（Paragraph-bold）**
 
-参考链接（Paragraph）
+**参考链接（Paragraph-bold）**
 
 平台（Paragraph）
 

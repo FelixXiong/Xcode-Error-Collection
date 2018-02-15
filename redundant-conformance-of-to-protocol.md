@@ -1,5 +1,7 @@
 # Redundant conformance of '' to protocol ''
 
+**参考链接**
+
 Stackoverflow
 
 [https://stackoverflow.com/questions/32540452/swift-redundant-conformance-of-viewcontroller-to-protocol-uigesturerecognizerd](https://stackoverflow.com/questions/32540452/swift-redundant-conformance-of-viewcontroller-to-protocol-uigesturerecognizerd)
