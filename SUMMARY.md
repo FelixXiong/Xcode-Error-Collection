@@ -13,6 +13,7 @@
 * [不通用的不具有分支的错误代码](cuo-wu-wen-ti-bu-ju-you-fen-zhi-de-cuo-wu-dai-ma.md)
 * [Instance member cannot be used on type](instance-member-cannot-be-used-on-type.md)
 * [Cannot convert value of type 'String?' to expected argument type ''](cannot-convert-value-of-type-string-to-expected-argument-type.md)
+* [Could not cast value of type 'UITableViewCell' \(\) to '.' \(\)](could-not-cast-value-of-type-uitableviewcell-to.md)
 * [Redundant conformance of '' to protocol ''](redundant-conformance-of-to-protocol.md)
 * ['\(\) -&gt; \(\)' is not convertible to 'Bool'](-is-not-convertible-to-bool.md)
 
