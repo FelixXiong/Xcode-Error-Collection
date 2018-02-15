@@ -20,13 +20,17 @@ Stackoverflow
 >
 > What happens in instances like this is you probably named an action, then renamed it. You need to delete the old name and if that was the only issue will start right up in sim!
 
-## 2.unrecognized selector sent to instance '
+## 2.Terminating app due to uncaught exception ''
+
+### **该情况的具体分支可以点击Terminating app due to uncaught exception ''页面查看。**
 
 **情况说明：点按某个控件出现崩溃（crash）**
 
 解决步骤：定位断点进行查看
 
-Cnblogs
+参考链接：
+
+cnblogs
 
 [http://www.cnblogs.com/liuguanlei/p/4482327.html](http://www.cnblogs.com/liuguanlei/p/4482327.html)
 

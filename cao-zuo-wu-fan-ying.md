@@ -6,7 +6,7 @@
 
 # 在某位置中操作（Heading1）
 
-## 操作无反应（分支）（Heading2）
+## 操作无反应（Heading2）
 
 平台（Paragraph）
 

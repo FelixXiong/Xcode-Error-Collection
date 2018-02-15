@@ -28,5 +28,11 @@ override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexP
         cell.Notes.text = ExampleList.NotesLabel
 ```
 
+解决方法：添加行
+
+```swift
+let ExampleList = ExampleArray[indexPath.row]
+```
+
 
 
