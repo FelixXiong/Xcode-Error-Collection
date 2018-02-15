@@ -10,13 +10,17 @@
 
 # 错误代码（Heading1）
 
-**参考链接（Paragraph-bold）**
+**参考链接（Paragraph-bold）**这里的参考链接为搜索引擎出现的排名前几位结果（当然，不算广告）
 
 平台（Paragraph）
 
 [参考链接（Paragraph-Insert Link）](https://www.gitbook.com/book/felixxiong/learn-swift-study-note/edit#)
 
 > 引用（Paragraph-Blockquote）
+
+在自己出现的错误代码情况下，为以下格式：
+
+位置在正常序号之下。
 
 ## 可能报错的情况（Heading2）
 

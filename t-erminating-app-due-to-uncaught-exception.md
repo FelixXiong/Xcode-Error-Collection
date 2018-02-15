@@ -64,11 +64,11 @@ Stackoverflow
 
 ## \*.可能报错的情况
 
-**情况说明：controller，在调用的时候声明成了局部变量，系统无法找到正确的 controller.**
+**1.Controller在调用的时候声明成了局部变量，系统无法找到正确的 Controller.**
 
-解决方法：不要把controller 写成局部变量。（不用xib，无所谓）
+**解决方法：不要把controller 写成局部变量。（不用xib，无所谓）**
 
-参考链接
+**参考链接**
 
 CSDN
 
