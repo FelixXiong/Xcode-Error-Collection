@@ -14,7 +14,9 @@
 
 解决方法（Paragraph）
 
-参考链接（Paragraph）
+平台（Paragraph）
+
+[参考链接（Paragraph-Insert Link）](https://www.gitbook.com/book/felixxiong/learn-swift-study-note/edit#)
 
 > 引用（Paragraph-Blockquote）
 
@@ -22,7 +24,9 @@
 
 # 错误代码（Heading1）
 
-参考链接（Paragraph）
+平台（Paragraph）
+
+[参考链接（Paragraph-Insert Link）](https://www.gitbook.com/book/felixxiong/learn-swift-study-note/edit#)
 
 > 引用（Paragraph-Blockquote）
 
