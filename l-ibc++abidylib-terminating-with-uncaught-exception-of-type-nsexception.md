@@ -2,6 +2,8 @@
 
 # terminating with uncaught exception of type NSException
 
+报错位置：控制台
+
 ## 1.this class is not key value coding-compliant for the key'
 
 **情况说明：模拟器出现白屏**
