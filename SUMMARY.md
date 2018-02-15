@@ -9,7 +9,9 @@
 * [错误代码](cuo-wu-dai-ma.md)
 * [libc++abi.dylib](l-ibc++abidylib-terminating-with-uncaught-exception-of-type-nsexception.md)
 * [Cannot convert value of type 'String?' to expected argument type ''](cannot-convert-value-of-type-string-to-expected-argument-type.md)
-* [his class is not key value coding-compliant for the key '](his-class-is-not-key-value-coding-compliant-for-the-key.md)
 * [Instance member cannot be used on type](instance-member-cannot-be-used-on-type.md)
+* [his class is not key value coding-compliant for the key '](his-class-is-not-key-value-coding-compliant-for-the-key.md)
 * [Terminating app due to uncaught exception ''](t-erminating-app-due-to-uncaught-exception.md)
+* [Redundant conformance of '' to protocol ''](redundant-conformance-of-to-protocol.md)
+* [' \(\) -&gt; \(\)' is not convertible to 'Bool'](-is-not-convertible-to-bool.md)
 
