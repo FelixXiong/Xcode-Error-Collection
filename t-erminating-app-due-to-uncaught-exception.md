@@ -38,7 +38,7 @@ cnblogs
 
 **出现此问题的情况说明：**
 
-删除MainStoryboard之后再从文件夹复制文件
+删除Main.Storyboard之后再从文件夹复制上一个文件（没有选择添加文件）
 
 **解决步骤：**
 
@@ -48,15 +48,36 @@ cnblogs
 
 [http://www.cnblogs.com/ygm900/p/3836580.html](http://www.cnblogs.com/ygm900/p/3836580.html)
 
-> 1、删掉工程中main.storyboard 后要删除plist文件中对应的键值，否则会报如下错误： Could not find a storyboard named 'Main' in bundle NSBundle
+> 1、删掉工程中main.storyboard 后要删除plist文件中对应的键值，否则会报如下错误： Could not find a storyboard named 'Main' in bundle NSBundle
 >
-> ![](https://images0.cnblogs.com/i/471533/201407/102112555517509.png)
+> ![](/assets/102112555517509.png)
 >
-> 2、删除main.storyboard后，需要在AppDelegate.m中初始化一个window进行使用，否则应用程序没有window可用。
+> 2、删除main.storyboard后，需要在AppDelegate.m中初始化一个window进行使用，否则应用程序没有window可用。\`\`\`
 >
 > ```swift
-> self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+> self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]]
 > ```
+
+### 1.4.'Could not load NIB in bundle: 'NSBundle &lt;/Users//Library/Developer/CoreSimulator/Devices//data/Containers/Bundle/Application//.app&gt; \(loaded\)' with name 'Main''
+
+**出现此问题的情况说明：**
+
+删除Main.Storyboard之后再从文件夹复制上一个文件\(上一个文件\)，重新添加I上图中Info.plist键值
+
+**解决步骤：**
+
+
+
+**参考链接：**
+
+Starkoverflow
+
+[https://stackoverflow.com/questions/6827949/could-not-load-nib-in-bundle/6827988](https://stackoverflow.com/questions/6827949/could-not-load-nib-in-bundle/6827988)
+
+> You have to take care of two things :
+>
+> 1. this call assumes you have a file named 'ViewLecturer.xib' and not 'file.xib'
+> 2. make sure the file is included in the app bundle. Check that in the build phases &gt; copy ressources to bundle.
 
 ## 2.'NSUnknownKeyException'
 
