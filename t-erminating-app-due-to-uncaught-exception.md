@@ -34,6 +34,30 @@ cnblogs
 >
 > 运行代码，断点就会停留在导致崩溃的地方。
 
+### 1.3.'Could not find a storyboard named 'Main' in bundle NSBundle &lt;/Users//Library/Developer/CoreSimulator/Devices//data/Containers/Bundle/Application//.app&gt; \(loaded\)'
+
+**出现此问题的情况说明：**
+
+删除MainStoryboard之后再从文件夹复制文件
+
+**解决步骤：**
+
+**参考链接：**
+
+cnblogs
+
+[http://www.cnblogs.com/ygm900/p/3836580.html](http://www.cnblogs.com/ygm900/p/3836580.html)
+
+> 1、删掉工程中main.storyboard 后要删除plist文件中对应的键值，否则会报如下错误： Could not find a storyboard named 'Main' in bundle NSBundle
+>
+> ![](https://images0.cnblogs.com/i/471533/201407/102112555517509.png)
+>
+> 2、删除main.storyboard后，需要在AppDelegate.m中初始化一个window进行使用，否则应用程序没有window可用。
+>
+> ```swift
+> self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+> ```
+
 ## 2.'NSUnknownKeyException'
 
 ### 2.1.this class is not key value coding-compliant for the key'
