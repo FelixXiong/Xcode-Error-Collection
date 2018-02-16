@@ -62,7 +62,7 @@ cnblogs
 
 **出现此问题的情况说明：**
 
-删除Main.Storyboard之后再从文件夹复制上一个文件\(上一个文件\)，重新添加I上图中Info.plist键值
+删除Main.Storyboard之后再从文件夹复制上一个文件\(上一个文件\)，重新添加上图中Info.plist键值
 
 **解决步骤：**
 
