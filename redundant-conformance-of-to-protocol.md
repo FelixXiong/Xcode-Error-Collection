@@ -4,9 +4,9 @@
 
 Stackoverflow
 
-[https://stackoverflow.com/questions/32540452/swift-redundant-conformance-of-viewcontroller-to-protocol-uigesturerecognizerd](https://stackoverflow.com/questions/32540452/swift-redundant-conformance-of-viewcontroller-to-protocol-uigesturerecognizerd)
+[Swift : Redundant conformance of Viewcontroller to protocol UIGestureRecognizerDelegate](https://stackoverflow.com/questions/32540452/swift-redundant-conformance-of-viewcontroller-to-protocol-uigesturerecognizerd)
 
-## 可能报错的情况
+可能报错的情况
 
 **1.各种ViewController不正确**
 

@@ -4,13 +4,13 @@
 
 简书
 
-[https://www.jianshu.com/p/15d0e127957a](https://www.jianshu.com/p/15d0e127957a)
+[报错：instance member '某某' cannot be used on type '...'](https://www.jianshu.com/p/15d0e127957a)
 
 Stackoverflow
 
-[https://stackoverflow.com/questions/32351343/instance-member-cannot-be-used-on-type](https://stackoverflow.com/questions/32351343/instance-member-cannot-be-used-on-type)
+[Instance member cannot be used on type](https://stackoverflow.com/questions/32351343/instance-member-cannot-be-used-on-type)
 
-[https://stackoverflow.com/questions/32693150/whats-wrong-here-instance-member-cannot-be-used-on-type](https://stackoverflow.com/questions/32693150/whats-wrong-here-instance-member-cannot-be-used-on-type)
+[What's wrong here: Instance member cannot be used on type \[duplicate\]](https://stackoverflow.com/questions/32693150/whats-wrong-here-instance-member-cannot-be-used-on-type)
 
 ## 可能报错的情况
 

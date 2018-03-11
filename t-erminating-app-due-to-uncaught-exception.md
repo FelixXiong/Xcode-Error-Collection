@@ -26,7 +26,7 @@
 
 cnblogs
 
-[http://www.cnblogs.com/liuguanlei/p/4482327.html](http://www.cnblogs.com/liuguanlei/p/4482327.html)
+[unrecognized selector sent to instance的定位](http://www.cnblogs.com/liuguanlei/p/4482327.html)
 
 > 在Xcode的菜单栏中选择Debug-&gt;Breakpoints-&gt;Create Symbolic Breakpoint点击后，会添加一个断点调试，弹出编辑框
 >
@@ -46,7 +46,7 @@ cnblogs
 
 cnblogs
 
-[http://www.cnblogs.com/ygm900/p/3836580.html](http://www.cnblogs.com/ygm900/p/3836580.html)
+[Could not find a storyboard named 'Main' in bundle NSBundle](http://www.cnblogs.com/ygm900/p/3836580.html)
 
 > 1、删掉工程中main.storyboard 后要删除plist文件中对应的键值，否则会报如下错误： Could not find a storyboard named 'Main' in bundle NSBundle
 >

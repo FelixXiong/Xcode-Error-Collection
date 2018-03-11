@@ -4,5 +4,7 @@
 
 Stackoverflow
 
-[https://stackoverflow.com/questions/33164264/cannot-convert-value-of-type-string-string-to-expected-argument-type-str](https://stackoverflow.com/questions/33164264/cannot-convert-value-of-type-string-string-to-expected-argument-type-str)
+[Cannot convert value of type \`\[String: String?\]\` to expected argument type \`\[String: String!\]\`](https://stackoverflow.com/questions/33164264/cannot-convert-value-of-type-string-string-to-expected-argument-type-str)
+
+
 

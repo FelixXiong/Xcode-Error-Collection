@@ -4,7 +4,7 @@
 
 cnblogs
 
-[http://www.cnblogs.com/yajunLi/p/6488957.html](http://www.cnblogs.com/yajunLi/p/6488957.html)
+[swift类型转换之Could not cast value of type xxx to xxx错误的一种特殊情况记录](http://www.cnblogs.com/yajunLi/p/6488957.html)
 
 > 这句话在swift中的使用，是做model类型强制转换（as！）时发生的。
 >
@@ -14,11 +14,8 @@ cnblogs
 >
 > 解决办法：只需要将另一个包里的模型类名称改一下就行了，让两者不要重复。这样就不会产生这个错误了。
 
-
-
 Stackoverflow
 
-[https://stackoverflow.com/questions/29831587/swift-could-not-cast-value-of-type](https://stackoverflow.com/questions/29831587/swift-could-not-cast-value-of-type)
-
+[Swift, could not cast value of type](https://stackoverflow.com/questions/29831587/swift-could-not-cast-value-of-type)  
 
 
