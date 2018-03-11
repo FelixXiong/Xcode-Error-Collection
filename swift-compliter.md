@@ -12,15 +12,5 @@
 
 更新的格式规范为章节页。
 
-# Swift Compliter（Heading1）
-
-## Swift Compliter代码（Heading2）
-
-解决方法（Paragraph）
-
-参考链接（Paragraph）
-
-> 引用
-
 
 
