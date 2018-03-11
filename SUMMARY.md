@@ -15,7 +15,7 @@
     * [Cannot convert value of type 'String?' to expected argument type ''](cannot-convert-value-of-type-string-to-expected-argument-type.md)
     * [Could not cast value of type 'UITableViewCell' \(\) to '.' \(\)](could-not-cast-value-of-type-uitableviewcell-to.md)
     * [Redundant conformance of '' to protocol ''](redundant-conformance-of-to-protocol.md)
-    * ['\(\) -&gt; \(\)' is not convertible to 'Bool'](-is-not-convertible-to-bool.md)
+      * ['\(\) -&gt; \(\)' is not convertible to 'Bool'](-is-not-convertible-to-bool.md)
 
 
 
