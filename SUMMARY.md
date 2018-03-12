@@ -22,5 +22,7 @@
     * [Cannot convert value of type 'String?' to expected argument type ''](cannot-convert-value-of-type-string-to-expected-argument-type.md)
     * [Could not cast value of type 'UITableViewCell' \(\) to '.' \(\)](could-not-cast-value-of-type-uitableviewcell-to.md)
     * [Redundant conformance of '' to protocol ''](redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md.md)
-      * \[\[\['\(\) -&gt; \(\)' is not convertible to 'Bool'\]\('%28%29 -&gt; %28%29' is not convertible to 'Bool'.md\)\]\(/'%28%29 -&gt; %28%29' is not convertible to 'Bool'.md\)\]\(/'%28%29 -&gt; %28%29' is not convertible to 'Bool'.md\)
+      * ['\(\) -&gt; \(\)' is not convertible to 'Bool'](/redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md/-is-not-convertible-to-bool2829-2829-is-not-convertible-to-boolmd.md)
+
+
 
