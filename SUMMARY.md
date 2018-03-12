@@ -1,7 +1,7 @@
 # Summary
 
 * [Xcode报错集合](README.md)
-* [操作无反应](/操作无反应.md#操作无反应)
+* [操作无反应](//操作无反应.md#操作无反应)
   * [Xcode StoryBoard](Xcode Storyboard.md)
 * [Swift编译器](Swift编译器.md)
   * [Swift Compiler Warning](Swift Compiler Warning.md)
@@ -16,12 +16,11 @@
 * [错误代码](错误代码.md)
   * [通用的具有分支的错误代码](错误问题通用的具有分支的错误代码.md)
     * [libc++abi.dylib:](libc++abi.dylib:.md)
-      * [libc++abi.dylib:](libc++abi.dylib:.md)
-    * [\[Type 'WillLearnListViewController' does not conform to protocol 'UITableViewDataSource'Do you want to add protocol stubs?\]\(/Type 'ViewController' does not conform to protocol.md\)](错误问题通用的具有分支的错误代码/type-willlearnlistviewcontroller-does-not-conform-to-protocol-uitableviewdatasourcedo-you-want-to-add-protocol-stubstype-viewcontroller-does-not-conform-to-protocolmd.md)
+    * [\[\[Type 'WillLearnListViewController' does not conform to protocol 'UITableViewDataSource'Do you want to add protocol stubs?\]\(/Type 'ViewController' does not conform to protocol.md\)\]\(Terminating app due to uncaught exception ''.md\)](错误问题通用的具有分支的错误代码/type-willlearnlistviewcontroller-does-not-conform-to-protocol-uitableviewdatasourcedo-you-want-to-add-protocol-stubstype-viewcontroller-does-not-conform-to-protocolmdterminating-app-due-to-uncaught-exception-md.md)
   * [不通用的不具有分支的错误代码](错误问题不通用的不具有分支的错误代码.md)
     * [Instance member cannot be used on type](Instance member cannot be used on type.md)
     * [Cannot convert value of type 'String?' to expected argument type ''](cannot-convert-value-of-type-string-to-expected-argument-type.md)
     * [Could not cast value of type 'UITableViewCell' \(\) to '.' \(\)](could-not-cast-value-of-type-uitableviewcell-to.md)
-    * [\[\[Redundant conformance of '' to protocol ''\]\(Redundant conformance of '' to protocol ''.md\)\]\(Redundant conformance of '' to protocol ''.md\)](redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-mdredundant-conformance-of-to-protocol-md.md)
-      * ['\(\) -&gt; \(\)' is not convertible to 'Bool'](-is-not-convertible-to-bool.md)
+    * [Redundant conformance of '' to protocol ''](redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md.md)
+      * \[\[\['\(\) -&gt; \(\)' is not convertible to 'Bool'\]\('%28%29 -&gt; %28%29' is not convertible to 'Bool'.md\)\]\(/'%28%29 -&gt; %28%29' is not convertible to 'Bool'.md\)\]\(/'%28%29 -&gt; %28%29' is not convertible to 'Bool'.md\)
 
