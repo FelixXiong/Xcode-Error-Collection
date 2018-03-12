@@ -4,5 +4,8 @@
 
 Stackoverflow
 
-[https://stackoverflow.com/questions/36022545/bool-not-convertible-to](https://stackoverflow.com/questions/36022545/bool-not-convertible-to)
+[\(\_\) -&gt; bool not convertible to \(\)](https://stackoverflow.com/questions/36022545/bool-not-convertible-to)
+
+  
+
 
