@@ -18,14 +18,10 @@
     * [libc++abi.dylib:](libc++abi.dylib:.md)
     * [\[\[\[Type 'WillLearnListViewController' does not conform to protocol 'UITableViewDataSource'Do you want to add protocol stubs?\]\(/Type 'ViewController' does not conform to protocol.md\)\]\(Terminating app due to uncaught exception ''.md\)\]\(Type 'ViewController' does not conform to protocol.md\)](错误问题通用的具有分支的错误代码/type-willlearnlistviewcontroller-does-not-conform-to-protocol-uitableviewdatasourcedo-you-want-to-add-protocol-stubstype-viewcontroller-does-not-conform-to-protocolmdterminating-app-due-to-uncaught-exception-mdtype-viewcontroller-does-not-conform-to.md)
   * [不通用的不具有分支的错误代码](错误问题不通用的不具有分支的错误代码.md)
-    * [Type 'ViewController' does not conform to protocol](https://www.gitbook.com/book/felixxiong/xcode/edit#)
-
+    * [Type 'ViewController' does not conform to protocol](/Type 'ViewController' does not conform to protocol.md)
     * [Instance member cannot be used on type](Instance member cannot be used on type.md)
-
     * [Cannot convert value of type 'String?' to expected argument type ''](cannot-convert-value-of-type-string-to-expected-argument-type.md)
-
     * [Could not cast value of type 'UITableViewCell' \(\) to '.' \(\)](could-not-cast-value-of-type-uitableviewcell-to.md)
-
   * [Redundant conformance of '' to protocol ''](redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md.md)
     * ['\(\) -&gt; \(\)' is not convertible to 'Bool'](/redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md/-is-not-convertible-to-bool2829-2829-is-not-convertible-to-boolmd.md)
 
