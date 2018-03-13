@@ -7,7 +7,7 @@
   * [Swift Compiler Warning](Swift Compiler Warning.md)
     * [String literal is unused](swift-compiler-warning/string-literal-is-unused.md)
   * [Swift Compiler Error](Swift Compiler Error.md)
-    * [\[Type 'ViewController' does not conform to protocol 'UITableViewDataSource'\]\(Type 'ViewController' does not conform to protocol.md\)](type-viewcontroller-does-not-conform-to-protocol-uitableviewdatasourcetype-viewcontroller-does-not-conform-to-protocolmd.md)
+    * [Terminating app due to uncaught exception ''](terminating-app-due-to-uncaught-exception-terminating-app-due-to-uncaught-exception-md.md)
     * [Consecutive statements on a line must be separated by ‘;’](Consecutive statements on a line must be separated by ‘;’.md)
     * [Parameter requires an explicit type](Parameter requires an explicit type.md)
     * [通用的具有分支的Swift编译报错](通用的具有分支的Swift编译报错.md)
@@ -24,6 +24,4 @@
     * [Could not cast value of type 'UITableViewCell' \(\) to '.' \(\)](could-not-cast-value-of-type-uitableviewcell-to.md)
   * [Redundant conformance of '' to protocol ''](redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md.md)
     * ['\(\) -&gt; \(\)' is not convertible to 'Bool'](/redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md/-is-not-convertible-to-bool2829-2829-is-not-convertible-to-boolmd.md)
-
-
 
