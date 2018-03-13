@@ -24,7 +24,6 @@
     * [Could not cast value of type 'UITableViewCell' \(\) to '.' \(\)](could-not-cast-value-of-type-uitableviewcell-to.md)
   * [Redundant conformance of '' to protocol ''](redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md.md)
     * ['\(\) -&gt; \(\)' is not convertible to 'Bool'](/redundant-conformance-of-to-protocol-redundant-conformance-of-to-protocol-md/-is-not-convertible-to-bool2829-2829-is-not-convertible-to-boolmd.md)
-* [Type 'ViewController' does not conform to protocol](/Type 'ViewController' does not conform to protocol.md)
 
 
 
