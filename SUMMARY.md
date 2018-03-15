@@ -8,7 +8,7 @@
     * [Swift Compiler Warning](README.md)
       * [String literal is unused](Xcode错误代码/Swift编译器/Swift Compiler Warning/String literal is unused.md)
     * [Swift Compiler Error](Swift编译器/Swift Compiler Error/README.md)
-      * [Type 'ViewController' does not conform to protocol](Swift编译器/Swift Compiler Error/Type 'ViewController' does not conform to protocol.md)
+      * [Type 'ViewController' does not conform to protocol](Xcode错误代码/Swift编译器/Swift Compiler Error/Type 'ViewController' does not conform to protocol.md)
       * [Consecutive statements on a line must be separated by ‘;’](Swift编译器/Swift Compiler Error/Consecutive statements on a line must be separated by ‘;’.md)
       * [Parameter requires an explicit type](Swift编译器/Swift Compiler Error/Parameter requires an explicit type.md)
       * [通用的具有分支的Swift编译报错](Swift编译器/Swift Compiler Error/通用的具有分支的Swift编译报错/README.md)
