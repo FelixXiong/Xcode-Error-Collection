@@ -17,7 +17,7 @@
   * [控制台](Xcode-Error-Code/Console/README.md)
     * [通用的具有分支的错误代码](Xcode-Error-Code/Console/Universal-branching/README.md)
       * [libc++abi.dylib:](Xcode-Error-Code/Console/Universal-branching/libcabidylib/libc++abi.dylib:.md)
-        * [Terminating app due to uncaught exception ''](Xcode-Error-Code/Console/Universal-branching/libcabidylib/Terminating-app-due-to uncaught-exception ''..md)
+        * [Terminating app due to uncaught exception ''](Xcode-Error-Code/Console/Universal-branching/libcabidylib/Terminating-app-due-to uncaught-exception-''..md)
     * [不通用的不具有分支的错误代码](Xcode-Error-Code/Console/Not-universally-unbranched/README.md)
       * [Instance member cannot be used on type](Xcode-Error-Code/Console/Not-universally-unbranched/Instance-member-cannot-be-used-on-type.md)
       * [Cannot convert value of type 'String?' to expected argument type ''](Xcode-Error-Code/Console/Not-universally-unbranched/Cannot-convert-value-of-type-'String?'-to-expected-argument-type-''.md)
