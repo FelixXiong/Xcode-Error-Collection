@@ -42,9 +42,9 @@ The Xcode error code includes the error code that appears when the error code of
 
 (names not listed in order)
 
-China: [Segmentfault](https://segmentfault.com),[Short Book](https://www.jianshu.com/),[Nuggets] (https://juejin.im/timeline) , [PRO ](http://blog.csdn.net) , [Blog Park](https://www.cnblogs.com)
+China: [Segmentfault](https://segmentfault.com),[Short Book](https://www.jianshu.com/), [Nuggets] (https://juejin.im/timeline) , [CSDN](http://blog.csdn.net) , [Blog Park](https://www.cnblogs.com)
 
-World: [Starkoverflow](https://stackoverflow.com)
+Non-China: [Starkoverflow](https://stackoverflow.com)
 
 At present, according to the increase in the number of reported errors, it has gradually increased.
 
