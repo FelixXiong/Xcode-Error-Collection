@@ -1,4 +1,4 @@
-# Xcode error collection
+# Xcode Error Collection
 
 
 
@@ -58,11 +58,11 @@ At present, according to the increase in the number of reported errors, it has g
 
 Currently joining members:
 
-[FelixXiong] (https://github.com/FelixXiong): Students who love to experience products, design point of view, self-study iOS development
+[FelixXiong](https://github.com/FelixXiong): Students who love to experience products, design point of view, self-study iOS development
 
-[LicaGao] (https://github.com/LicaGao): A pseudo-programmer senior dog who knows a bit about iOS fur
+[LicaGao](https://github.com/LicaGao): A pseudo-programmer senior dog who knows a bit about iOS fur
 
-[Jaketo] (https://bladderofculture.blogspot.com): Self-paced iOS students
+[Jaketo](https://bladderofculture.blogspot.com): Self-paced iOS students
 
 ## Hope to have your contribution
 
