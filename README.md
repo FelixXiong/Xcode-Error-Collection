@@ -64,7 +64,7 @@ Xcode错误代码其中包括**Swift编译器**以及**控制台**的错误代�
 
 [Jaketo](https://bladderofculture.blogspot.com)：自学iOS开发的大学生 
 
-[Jinya](http://jinya.me):iOS开发者，目前维护[短信卫士](https://itunes.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E5%8D%AB%E5%A3%AB/id1317407948?mt=8)
+[Jinya](http://jinya.me)：iOS开发者，目前维护[短信卫士](https://itunes.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E5%8D%AB%E5%A3%AB/id1317407948?mt=8)
 
 [TianZhen](http://www.tianzhen.tech):全栈培训讲师，打字很快
 
