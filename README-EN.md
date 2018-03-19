@@ -42,7 +42,7 @@ The Xcode error code includes the error code that appears when the error code of
 
 (names not listed in order)
 
-China: [Segmentfault] (https://segmentfault.com),[Short Book](https://www.jianshu.com/),[Nuggets] (https://juejin.im/timeline),[PRO ](http://blog.csdn.net),[Blog Park](https://www.cnblogs.com)
+China: [Segmentfault](https://segmentfault.com),[Short Book](https://www.jianshu.com/),[Nuggets] (https://juejin.im/timeline) , [PRO ](http://blog.csdn.net) , [Blog Park](https://www.cnblogs.com)
 
 World: [Starkoverflow](https://stackoverflow.com)
 
@@ -82,7 +82,7 @@ Interested friends can enter the "WeChat group" issue to comment, join WeChat gr
 
 If you have a better idea, you are welcome to contact me.
 
-Weibo: [@ guys who love tossing mobile phones] (https://weibo.com/5210076054/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+Weibo: [@ guys who love tossing mobile phones](https://weibo.com/5210076054/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
 WeChat: accisd235
 
@@ -92,19 +92,20 @@ Telegram: [@FelixXiong](t.me/FelixXiong)
 
 # From a collection of common mistakes:
 
+* [Xcode Error Collection](README.md)
 * [No response](No-response/README.md)
-  * [Xcode StoryBoard](No-response/Xcode-Storyboard.md)
-* [Xcode Error Code] (Xcode-Error-Code/README.md)
-    * [Swift Compiler Warning](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Warning/README.md)
-      * [String literal is unused](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Warning/String-literal-is-unused.md)
-    * [Swift Compiler Error](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/README.md)
-      * [Type 'ViewController' does not conform to protocol](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Type-'ViewController'-does-not-conform-to-protocol.md)
-      * [Consecutive statements on a line must be separated by ';'](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Consecutive-statements-on-a-line-must-be-separated-by- ';'.md)
-      * [Parameter requires an explicit type](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Parameter-requires-an-explicit-type.md)
-      * [Generic Branched Swift Compilation Errors](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Generic-Swift-Compile-Error-with-Branch/README.md)
-        * [Use of undeclared](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Generic-Swift-Compile-Error-with-Branch/Use-of-undeclared.md)
-        * [Expected expression](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Generic-Swift-Compile-Error-with-Branch/Expected-expression.md)
-  * [Console] (Xcode-Error-Code/Console/README.md)
-    * [Universal Branched Error Codes] (Xcode-Error-Code/Console/Universal-branching/README.md)
-      * [libc++abi.dylib:](Xcode-Error-Code/Console/Universal-branching/libcabidylib/libcabidylib.md)
-        * [Terminating app due to uncaught exception ''] (Xcode-Error-Code/Console/Universal-branching/libcabidylib/Terminating-app-due-to-uncaught-exception.md)
+  * [Xcode StoryBoard](No-response/Xcode-Storyboard.md)
+* [Xcode错误代码](Xcode-Error-Code/README.md)
+  * [Swift-Compiler](Xcode-Error-Code/Swift-Compiler/README.md)
+    * [Swift Compiler Warning](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Warning/README.md)
+      * [String literal is unused](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Warning/String-literal-is-unused.md)
+    * [Swift Compiler Error](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/README.md)
+      * [Type 'ViewController' does not conform to protocol](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Type-'ViewController'-does-not-conform-to-protocol.md) 
+      * [Generic wift Compile Error with Branch](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Generic-Swift-Compile-Error-with-Branch/README.md)
+        * [Use of undeclared](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Generic-Swift-Compile-Error-with-Branch/Use-of-undeclared.md)
+        * [Expected expression](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Generic-Swift-Compile-Error-with-Branch/Expected-expression.md)
+  * [Console](Xcode-Error-Code/Console/README.md)
+    * [Universal branching](Xcode-Error-Code/Console/Universal-branching/README.md)
+      * [libc++abi.dylib:](Xcode-Error-Code/Console/Universal-branching/libcabidylib/libcabidylib.md)
+        * [Terminating app due to uncaught exception ''](Xcode-Error-Code/Console/Universal-branching/libcabidylib/Terminating-app-due-to-uncaught-exception.md)
+       
