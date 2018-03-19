@@ -5,7 +5,11 @@
   * [Xcode StoryBoard](No-response/Xcode-Storyboard.md)
 * [Xcode错误代码](Xcode-Error-Code/README.md)
   * [Swift编译器](Xcode-Error-Code/Swift-Compiler/README.md)
+<<<<<<< HEAD
     * [Swift Compiler Warning](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Warning/README.md)
+=======
+    * [Swift Compiler Warning](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Warning/README.md)(未链接)
+>>>>>>> cdf9c4ec8a86c98240279598ec6116fdea96e862
       * [String literal is unused](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Warning/String-literal-is-unused.md)
     * [Swift Compiler Error](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/README.md)
       * [Type 'ViewController' does not conform to protocol](Xcode-Error-Code/Swift-Compiler/Swift-Compiler-Error/Type-'ViewController'-does-not-conform-to-protocol.md)
@@ -19,7 +23,11 @@
       * [libc++abi.dylib:](Xcode-Error-Code/Console/Universal-branching/libcabidylib/libc++abi.dylib:.md)(未链接)
         * [Terminating app due to uncaught exception ''](Xcode-Error-Code/Console/Universal-branching/libcabidylib/Terminating-app-due-to-uncaught-exception-''..md)(未链接)
     * [不通用的不具有分支的错误代码](Xcode-Error-Code/Console/Not-universally-unbranched/README.md)
+<<<<<<< HEAD
       * [Instance member cannot be used on type](Xcode-Error-Code/Console/Not-universally-unbranched/Instance-member-cannot-be-used-on-type.md)
+=======
+      * [Instance member cannot be used on type](Xcode-Error-Code/Console/Not-universally-unbranched/Instance-member-cannot-be-used-on-type.md)(未链接)
+>>>>>>> cdf9c4ec8a86c98240279598ec6116fdea96e862
       * [Cannot convert value of type 'String?' to expected argument type ''](Xcode-Error-Code/Console/Not-universally-unbranched/Cannot-convert-value-of-type-'String?'-to-expected-argument-type-''.md)(未链接)
       * [Could not cast value of type 'UITableViewCell'\(\) to '.'](Xcode-Error-Code/Console/Not-universally-unbranched/Could-not-cast-value-of-type-'UITableViewCell'\(\)-to-'.'.md )(未链接)
         * [Redundant conformance of '' to protocol ''](Xcode-Error-Code/Console/Not-universally-unbranched/Redundant-conformance-of-''-to-protocol-''.md)(未链接)
