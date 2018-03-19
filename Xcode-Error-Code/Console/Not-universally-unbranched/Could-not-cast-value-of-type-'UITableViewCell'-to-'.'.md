@@ -1,1 +1,1 @@
-# Could not cast value of type 'UITableViewCell' to ‘.’
+# Could not cast value of type 'UITableViewCell' to '.'
