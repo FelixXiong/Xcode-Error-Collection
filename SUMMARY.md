@@ -21,7 +21,6 @@
         * [Terminating app due to uncaught exception ''](Xcode-Error-Code/Console/Universal-branching/libcabidylib/Terminating-app-due-to-uncaught-exception-''..md)(未链接)
     * [不通用的不具有分支的错误代码](Xcode-Error-Code/Console/Not-universally-unbranched/README.md)
       * [Instance member cannot be used on type](Xcode-Error-Code/Console/Not-universally-unbranched/Instance-member-cannot-be-used-on-type.md)
-      * [Instance member cannot be used on type](Xcode-Error-Code/Console/Not-universally-unbranched/Instance-member-cannot-be-used-on-type.md)(未链接)
       * [Cannot convert value of type 'String?' to expected argument type ''](Xcode-Error-Code/Console/Not-universally-unbranched/Cannot-convert-value-of-type-'String?'-to-expected-argument-type-''.md)(未链接)
       * [Could not cast value of type 'UITableViewCell'\(\) to '.'](Xcode-Error-Code/Console/Not-universally-unbranched/Could-not-cast-value-of-type-'UITableViewCell'\(\)-to-'.'.md )(未链接)
         * [Redundant conformance of '' to protocol ''](Xcode-Error-Code/Console/Not-universally-unbranched/Redundant-conformance-of-''-to-protocol-''.md)(未链接)
