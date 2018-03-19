@@ -58,7 +58,7 @@ Xcode错误代码其中包括**Swift编译器**以及**控制台**的错误代�
 
 目前加入成员：
 
-[FelixXiong]()：热爱体验产品，会点设计，自学iOS开发的大学生
+[FelixXiong](https://github.com/FelixXiong)：热爱体验产品，会点设计，自学iOS开发的大学生
 
 [LicaGao](https://github.com/LicaGao)：懂点iOS皮毛的伪程序员大四狗
 
