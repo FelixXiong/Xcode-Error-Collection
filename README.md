@@ -70,6 +70,8 @@ Xcode错误代码其中包括**Swift编译器**以及**控制台**的错误代�
 
 [iPersestence](https://github.com/we11cheng):三年工作萌新一枚,学习swift中
 
+[丰泽](https://www.jianshu.com/u/fb8c7b98d40b)：独立应用 圆视界 开发者
+
 ## 希望有你的贡献
 
 首先如果你是一名iOS开发者或者即将是，那么这个报错集合可以帮到你节约在解决问题上的时间。
